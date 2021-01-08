@@ -1,0 +1,19 @@
+{
+  "name": "storiessandiegobackend",
+  "version": "1.0.0",
+  "description": "Simple Backend for Stories San Diego",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devcmgm/storiesSanDiegoBackend.git"
+  },
+  "author": "Zach Lewis and Osha Groetz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devcmgm/storiesSanDiegoBackend/issues"
+  },
+  "homepage": "https://github.com/devcmgm/storiesSanDiegoBackend#readme"
+}
