@@ -34,7 +34,7 @@ module.exports = async (req, res) => {
         ]}
 
 
-  res.status(200).end(JSON.stringify(stories));
+  res.status(200).end(JSON.stringify(testdata));
 
   //
   // future if you want action types
